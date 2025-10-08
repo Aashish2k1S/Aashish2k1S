@@ -13,8 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-👋 Hi, I’m Aashish Gupta
-💻 .NET Software Developer passionate about backend engineering and scalable design.
-🌱 Currently learning Docker & Cloud fundamentals.
-📫 Connect with me on [LinkedIn🧷](https://www.linkedin.com/in/aashish2k1s/)
+👋 Hi, I’m Aashish Gupta  
+💻 .NET Software Developer passionate about backend engineering, SQL optimization, and scalable design.  
+🚀 Currently learning Docker, Azure, and FastAPI to expand into cloud-based solutions.  
+🧠 2 years of professional experience with APIs, Crystal Reports, and data-driven applications.  
+📂 Explore my projects below — open for collaboration and learning opportunities.  
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/aashish2k1s/)
