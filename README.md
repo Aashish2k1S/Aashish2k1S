@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Aashish2k1S/Aashish2k1S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+👋 Hi, I’m Aashish Gupta
+💻 .NET Software Developer passionate about backend engineering and scalable design.
+🌱 Currently learning Docker & Cloud fundamentals.
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/aashish2k1s/)
