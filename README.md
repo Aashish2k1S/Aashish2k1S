@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 👋 Hi, I’m Aashish Gupta
 💻 .NET Software Developer passionate about backend engineering and scalable design.
 🌱 Currently learning Docker & Cloud fundamentals.
-📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/aashish2k1s/)
+📫 Connect with me on [LinkedIn🧷](https://www.linkedin.com/in/aashish2k1s/)
