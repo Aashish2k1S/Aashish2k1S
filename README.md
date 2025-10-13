@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 🧠 2 years of professional experience with APIs, Crystal Reports, and data-driven applications.  
 📂 Explore my projects below — open for collaboration and learning opportunities.  
 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/aashish2k1s/)
+<a href="[https://github.com](https://www.linkedin.com/in/aashish2k1s/)" target="_blank" rel="LinkedIn URL">LinkedIn</a>
