@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 🚀 Currently learning Docker, Azure, and FastAPI to expand into cloud-based solutions.  
 🧠 2 years of professional experience with APIs, Crystal Reports, and data-driven applications.  
 📂 Explore my projects below — open for collaboration and learning opportunities.  
-📫 Connect with me on [LinkedIn]("https://www.linkedin.com/in/aashish2k1s/")
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/aashish2k1s/)
