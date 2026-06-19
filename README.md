@@ -31,7 +31,7 @@
 ### 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,react,fastapi,nodejs,dotnet,cs,postgres,mysql,docker,gcp,azure,aws,linux,git,github,postman,anaconda" />
+  <img src="https://skillicons.dev/icons?i=py,fastapi,react,nodejs,dotnet,cs,postgres,mysql,docker,gcp,azure,aws,linux,git,github,postman,anaconda" />
 </p>
 
 ---  
