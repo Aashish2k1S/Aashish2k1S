@@ -13,7 +13,7 @@
 
 ### 👨‍💻 About Me  
 
-💻 .NET Software Developer passionate about backend engineering, SQL optimization, and scalable design.  
+💻 Software Developer continuous learning more in-depth about backend engineering, SQL optimization, and scalable design.  
 🚀 Currently learning Docker, Azure, and FastAPI to expand into cloud-based solutions.  
 🧠 2 years of professional experience with APIs, Crystal Reports, and data-driven applications.  
 📂 Explore my projects below — open for collaboration and learning opportunities.  
